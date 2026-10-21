@@ -179,7 +179,7 @@ A beauty shopping web application built with React.js and Firebase, featuring a 
 
   <br/>
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=FFF0F5&ring=E75480&fire=FF69B4&currStreakLabel=E75480&sideLabels=6A1B4D&dates=6A1B4D" alt="GitHub contribution streak"/>
+
 
 </div>
 
